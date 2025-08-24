@@ -1,0 +1,35 @@
+{
+   "Стоп слова": [
+      "https://www.instagram.com/",
+      "https://www.facebook.com/",
+      "https://t.me/+serrmylxoma5y2qy",
+      "https://t.me/wbonelove",
+      "https://t.me/+bhz27tiplmy5zdc6",
+      "@skladmpstats_bot",
+      "https://telegra.ph/baza-kursov-wb-2022-09-14⁬⁯⁬⁯⁬⁯⁬⁯⁬⁯⁬⁯⁬⁯⁬⁯⁬⁯",
+      "@alihalyavabot",
+      "https://telegra.ph/wildberries-2022-obuchenie-09-16",
+      "https://t.me/tovarbb",
+      "@wildberries2022_bot",
+      "@kurs1wb_bot",
+      "@newkursiwb_bot",
+      "https://t.me/sheba_singer",
+      "https://t.me/wildads",
+      "t.me/loxxxxxbot"
+   ],
+   "Разрешенные слова": [
+      "кэшбэк",
+      "кешбэк",
+      "кэшбек",
+      "кешбек",
+      "кэш-бэк",
+      "кеш-бэк",
+      "кэш-бек",
+      "кеш-бек",
+      "кеш",
+      "кэш",
+      "бесплатно за отзыв",
+      "возврат",
+      "вернём"
+   ]
+}

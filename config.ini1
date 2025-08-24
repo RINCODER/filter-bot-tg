@@ -1,0 +1,7 @@
+[TGSETTINGS]
+chatid = -1001527930416
+adminid1 = 0
+adminid2 = 1243036766
+tokenbot = 5734414480:AAFai7zkBrThR7l89OTLRkosc7lO5FqJivo
+messageWhiteWord = Сообщение для оповещения пользователя о том, что в тексте нет разрешенного слова
+messageBlackWord = Сообщение для оповещения пользователя о том, что в тексте нет Запрещенного
